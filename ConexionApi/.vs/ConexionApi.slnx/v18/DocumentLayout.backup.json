@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BB84B-DB26-E524-1690-3AF76A56A064}|ConexionApi\\ConexionApi.csproj|c:\\users\\boris\\downloads\\api\\conexionapi\\conexionapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BB84B-DB26-E524-1690-3AF76A56A064}|ConexionApi\\ConexionApi.csproj|solutionrelative:conexionapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BB84B-DB26-E524-1690-3AF76A56A064}|ConexionApi\\ConexionApi.csproj|C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\conexionapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D04BB84B-DB26-E524-1690-3AF76A56A064}|ConexionApi\\ConexionApi.csproj|solutionrelative:conexionapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C13FB5C-7B19-499B-B1B5-6B93368B518F}|ConexionApi\\ConexionApi.csproj|C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\conexionapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C13FB5C-7B19-499B-B1B5-6B93368B518F}|ConexionApi\\ConexionApi.csproj|solutionrelative:conexionapi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04BB84B-DB26-E524-1690-3AF76A56A064}|ConexionApi\\ConexionApi.csproj|c:\\users\\boris\\downloads\\api\\conexionapi\\conexionapi\\chisteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D04BB84B-DB26-E524-1690-3AF76A56A064}|ConexionApi\\ConexionApi.csproj|solutionrelative:conexionapi\\chisteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionApi\\Form1.cs",
+              "ToolTip": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConexionApi\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T15:13:13.585Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChisteApi.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\ChisteApi.cs",
+              "RelativeDocumentMoniker": "ConexionApi\\ChisteApi.cs",
+              "ToolTip": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\ChisteApi.cs",
+              "RelativeToolTip": "ConexionApi\\ChisteApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T14:00:53.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionApi\\Form1.cs",
+              "ToolTip": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\Form1.cs",
+              "RelativeToolTip": "ConexionApi\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:32:12.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\Form1.cs",
+              "RelativeDocumentMoniker": "ConexionApi\\Form1.cs",
+              "ToolTip": "C:\\Users\\boris\\Downloads\\Api\\ConexionApi\\ConexionApi\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ConexionApi\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:30:46.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

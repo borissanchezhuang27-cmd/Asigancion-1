@@ -1,0 +1,16 @@
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\bin\Debug\net10.0-windows\ConexionApi.exe
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\bin\Debug\net10.0-windows\ConexionApi.deps.json
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\bin\Debug\net10.0-windows\ConexionApi.runtimeconfig.json
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\bin\Debug\net10.0-windows\ConexionApi.dll
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\bin\Debug\net10.0-windows\ConexionApi.pdb
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.Form1.resources
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.csproj.GenerateResource.cache
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.AssemblyInfoInputs.cache
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.AssemblyInfo.cs
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.csproj.CoreCompileInputs.cache
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.dll
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\refint\ConexionApi.dll
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.pdb
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ConexionApi.genruntimeconfig.cache
+C:\Users\boris\Downloads\Api\ConexionApi\ConexionApi\obj\Debug\net10.0-windows\ref\ConexionApi.dll
